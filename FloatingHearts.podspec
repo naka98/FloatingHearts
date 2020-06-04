@@ -17,7 +17,7 @@ Pod::Spec.new do |spec|
 
   spec.name         = "FloatingHearts"
   spec.version      = "1.0.0"
-  spec.summary      = "A short description of FloatingHearts."
+  spec.summary      = "FloatingHearts."
   spec.swift_version = "5.0"
 
   # This description is used to generate tags and improve search results.
@@ -26,7 +26,7 @@ Pod::Spec.new do |spec|
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   spec.description  = <<-DESC
-  A short description of FloatingHearts. and...
+  It is FloatingHearts. and...
                    DESC
   spec.homepage     = "https://github.com/naka98/FloatingHearts"
   # spec.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"

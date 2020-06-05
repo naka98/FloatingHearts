@@ -92,6 +92,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.source_files  = "FloatingHearts", "FloatingHearts/**/*.{h,m}"
+  spec.resources = ["FloatingHearts/Assets.xcassets"]
   # spec.exclude_files = "Classes/Exclude"
 
   # spec.public_header_files = "Classes/**/*.h"
